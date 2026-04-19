@@ -26,7 +26,7 @@ Aplikasi **Buku Tamu** sederhana berbasis **Laravel 9** yang dibuat sebagai proy
 
 ## 🖥️ Menjalankan Secara Lokal
 
-Pastikan Bapak sudah menginstall **PHP 8.x**, **Composer**, dan **MySQL/MariaDB** (misalnya via [Laragon](https://laragon.org/)).
+Pastikan sudah menginstall **PHP 8.x**, **Composer**, dan **MySQL/MariaDB** (misalnya via [Laragon](https://laragon.org/)).
 
 ### 1. Clone Repositori
 
@@ -87,7 +87,7 @@ Proyek ini dilengkapi `Dockerfile` yang sudah di-konfigurasi untuk deployment ke
 |---|---|
 | `APP_NAME` | `Laravel Guestbook` |
 | `APP_ENV` | `production` |
-| `APP_KEY` | *(Salin dari file `.env` lokal Bapak)* |
+| `APP_KEY` | *(Salin dari file `.env` lokal Anda)* |
 | `APP_DEBUG` | `false` |
 | `APP_URL` | `https://[nama-app].koyeb.app` |
 | `DB_CONNECTION` | `pgsql` *(atau `mysql` jika pakai eksternal)* |
